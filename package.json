@@ -1,0 +1,23 @@
+{
+  "name": "23-03-16-npm-prac",
+  "version": "1.0.0",
+  "description": "npm prac",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowkwon97/23-03-16-npm-prac.git"
+  },
+  "author": "leejaekwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowkwon97/23-03-16-npm-prac/issues"
+  },
+  "homepage": "https://github.com/nowkwon97/23-03-16-npm-prac#readme",
+  "dependencies": {
+    "tsparticles-engine": "^2.9.3",
+    "tsparticles-fireworks": "^2.9.3"
+  }
+}
